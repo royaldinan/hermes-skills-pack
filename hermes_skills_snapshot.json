@@ -1,0 +1,85 @@
+{
+  "hermes_version": "0.1.0",
+  "exported_at": "2026-10-21T19:58:55.526424+00:00",
+  "skills": [
+    {
+      "name": "rss-feeds",
+      "source": "official",
+      "identifier": "official/research/rss-feeds",
+      "category": "research"
+    },
+    {
+      "name": "reddit-reading",
+      "source": "official",
+      "identifier": "official/social-media/reddit-reading",
+      "category": "social-media"
+    },
+    {
+      "name": "douban-self-taste-skill",
+      "source": "clawhub",
+      "identifier": "@xeric7/douban-self-taste-skill",
+      "category": ""
+    },
+    {
+      "name": "akdira-taste-skill-v1",
+      "source": "clawhub",
+      "identifier": "@akdira/akdira-taste-skill-v1",
+      "category": ""
+    },
+    {
+      "name": "talonforge-god-mode",
+      "source": "clawhub",
+      "identifier": "@casperzinou/talonforge-god-mode",
+      "category": ""
+    },
+    {
+      "name": "songwriting-and-ai-music",
+      "source": "skills.sh",
+      "identifier": "skills-sh/NousResearch/hermes-agent/skills/creative/songwriting-and-ai-music",
+      "category": ""
+    },
+    {
+      "name": "security-audit",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/cloudflare/security-audit-skill/main/skills/security-audit/SKILL.md",
+      "category": ""
+    },
+    {
+      "name": "design-taste-frontend",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
+      "category": ""
+    },
+    {
+      "name": "sheet-music-publisher",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/sheet-music-publisher/SKILL.md",
+      "category": ""
+    },
+    {
+      "name": "council-execution",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/hex/claude-council/main/skills/council-execution/SKILL.md",
+      "category": ""
+    },
+    {
+      "name": "deep-execution",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/hex/claude-council/main/skills/deep-execution/SKILL.md",
+      "category": ""
+    },
+    {
+      "name": "local-council-execution",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/hex/claude-council/main/skills/local-council-execution/SKILL.md",
+      "category": ""
+    },
+    {
+      "name": "provider-integration",
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/hex/claude-council/main/skills/provider-integration/SKILL.md",
+      "category": ""
+    }
+  ],
+  "taps": []
+}
